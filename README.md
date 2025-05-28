@@ -7,7 +7,7 @@ This project explores whether song lyrics and audio features can predict the cha
 - `1. Data cleaning & Feature engineering.ipynb`  
   Scripts for loading, merging, and preprocessing Spotify and Billboard datasets. Includes filtering English lyrics and generating audio and lexical features.
 
-- `2.EDA.ipynb`  
+- `2. EDA.ipynb`  
   Exploratory data analysis of audio and text features. Includes distribution visualizations, clustering attempts, and linguistic insights.
 
 - `3. Model Training.ipynb`  
