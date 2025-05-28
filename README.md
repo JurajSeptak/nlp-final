@@ -54,7 +54,7 @@ This project explores whether song lyrics and audio features can predict the cha
 
 3. Run the notebooks in order:
    - `1. Data cleaning & Feature engineering.ipynb`
-   - `2.EDA.ipynb`
+   - `2. EDA.ipynb`
    - `3. Model Training.ipynb`
 
 ## 🧑‍💻 Authors
