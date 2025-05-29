@@ -15,6 +15,7 @@ This project explores whether song lyrics and audio features can predict the cha
 
 - `training_sets/`  
   Contains all pre-split datasets (train/val/test) for each feature configuration (A, L, T, L_T, L_A, T_A, A_L_T).
+  Also includes a `saved_models/` subfolder with pickled pre-trained models for reproducibility and evaluation.
 
 ## 🧪 Models & Techniques
 
